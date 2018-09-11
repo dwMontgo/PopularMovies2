@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular Movies 2</string>
+
+    <!--Menu items-->
+    <string name="rating_menu">Sort by rating</string>
+    <string name="popularity_menu">Sort by popularity</string>
+    <string name="favorite_menu">Favorites</string>
+
+    <!--Placeholders -->
+    <string name="title_placeholder">Movie Title</string>
+    <string name="summary_placeholder">The summary of this movie can be summarized.</string>
+    <string name="date_placeholder">03/17/2008</string>
+    <string name="rating_placeholder">8.8</string>
+    <string name="movie_reviews">Reviewers reviewing movies write reviews about movies they have reviewed.</string>
+
+    <!--Detail Activity items-->
+    <string name="date_label">Date:</string>
+    <string name="rating_label">Rating:</string>
+    <string name="favorite_toast">Movie added to Favorites</string>
+    <string name="favorite_text">Favorite</string>
+    <string name="trailer_text">Trailer</string>
+    <string name="reviews_label">Reviews</string>
+
+</resources>
